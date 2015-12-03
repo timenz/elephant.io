@@ -12,6 +12,7 @@
 namespace ElephantIO\Engine;
 
 use DomainException;
+use ElephantIO\Exception\MalformedUrlException;
 use RuntimeException;
 
 use Psr\Log\LoggerInterface;
